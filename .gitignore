@@ -1,0 +1,4 @@
+co.log
+*.log
+logs/*.log
+!logs/example.log
